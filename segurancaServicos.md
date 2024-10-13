@@ -1,4 +1,4 @@
 # Segurança e Serviços
 
-![Computação](C:\Users\felip\faculdade\cloud_fundamentos\img\computacao.png)
+![Computação](https://github.com/engenheirofelipe/cloud_fundamentos/blob/main/segurancaServicos.md/computacao.png)
 
