@@ -8,4 +8,4 @@ Cada instância tem uma arquitetura de computador, memória, processador.  Inst�
 
 Além disso precisa configurar uma rede, para saber quais dispositivos de endereços de ips estará acessando dentro dela.
 
-<img src="./img/tela.png">
+<img src="./img/tela.png" width="200px" height="200px">
